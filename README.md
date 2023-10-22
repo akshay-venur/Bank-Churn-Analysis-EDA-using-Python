@@ -1,7 +1,7 @@
 # Bank-Churn-Analysis-EDA-using-Python
 
-**Conducted thorough data cleaning and preprocessing of the bank churn  Dataset, ensuring data integrity and consistency for analysis by utilizing Python, NumPy, Pandas, Matplotlib, and Seaborn
-**Utilized Python's Matplotlib and Seaborn libraries to employ advanced visualization techniques, such as correlation matrices and scatter plots, in order to identify significant factors influencing bank churn of customer
+* Conducted thorough data cleaning and preprocessing of the bank churn  Dataset, ensuring data integrity and consistency for analysis by utilizing Python, NumPy, Pandas, Matplotlib, and Seaborn.
+* Utilized Python's Matplotlib and Seaborn libraries to employ advanced visualization techniques, such as correlation matrices and scatter plots, in order to identify significant factors influencing bank churn of customer.
 
 ## Libraries Used
 Python, Numpy, Matplotlib, Pandas, Seaborn
