@@ -6,6 +6,8 @@
 ## Libraries Used
 Python, Numpy, Matplotlib, Pandas, Seaborn
 
+## Sample Screenshots 
+
 ![image](https://github.com/akshay-venur/Bank-Churn-Analysis-EDA-using-Python/assets/43615481/af76a854-e8e0-40e0-8e3b-208327ab67c7)
 
 ![image](https://github.com/akshay-venur/Bank-Churn-Analysis-EDA-using-Python/assets/43615481/8f000193-ed37-4972-9d33-a1d217a8210e)
